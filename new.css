@@ -1,0 +1,58 @@
+.sea{
+    margin: 0;
+}
+.container{
+    width: 1000px;
+    height: 700px;
+    display: flex;
+    margin: 40px;
+}
+
+body{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login-form{
+    margin: 0;
+    width: 500px;
+    height: 700px;
+    background-color: white;
+}
+.butt{
+    font-size: 15px;
+    display: flex;
+    
+
+}
+.form{
+    font-size: 20px;
+}
+button{
+    padding: 10px 20px;
+}
+.ema{
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.next{
+    margin-left: 200px;
+}
+p{
+    text-align: center;
+    padding: 30px;
+}
+.facebook{
+    margin-left: 110px;
+}
+.google{
+    margin-left: 90px;
+}
+.forgot{
+    margin-left: 50px;
+}
+h1{
+    padding-left: 30px;
+}
